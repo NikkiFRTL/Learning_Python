@@ -1,4 +1,4 @@
-from restaurant import Restaurant
+from restaurant.restaurant import Restaurant
 
 
 my_restaurant = Restaurant('Bad Bear', 'Russian')

@@ -107,8 +107,3 @@ class Privileges:
     def show_rights(self):
         return self.rights
 
-
-my_car = ElectroCar('tesla', 'type S', 2020)
-print(my_car.get_range())
-my_car.battery_power.upgrade_battery()
-print(my_car.get_range())

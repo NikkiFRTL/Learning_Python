@@ -1,4 +1,4 @@
-from user import User
+from user.user import User
 
 
 class Admin(User):
