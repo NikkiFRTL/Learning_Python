@@ -1,5 +1,8 @@
 
 def count_words(file):
+    """
+    Counts the amount of particular words in txt file.
+    """
     try:
         with open(file) as object_file:
             contents = object_file.read()

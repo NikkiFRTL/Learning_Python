@@ -1,4 +1,4 @@
-from car.car import Car
+from Lesson_9.car import Car
 
 
 class ElectroCar(Car):
